@@ -1,0 +1,13 @@
+id,name,category
+1,Bread & Pastries,bakery
+2,Prepared Meals,cooked
+3,Fresh Produce,produce
+4,Dairy Products,dairy
+5,Canned/Packaged,packaged
+6,Fruit Baskets,produce
+7,Salads,cooked
+8,Cooked Rice/Grains,cooked
+9,Meat/Fish,meat
+10,Beverages,packaged
+11,Desserts,bakery
+12,Ready-to-eat Snacks,packaged
